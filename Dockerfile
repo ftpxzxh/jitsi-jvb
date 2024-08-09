@@ -1,1 +1,1 @@
-FROM jitsi/jvb:stable-9646
+FROM jitsi/jvb:stable-9111
